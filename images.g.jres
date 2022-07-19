@@ -1,0 +1,27 @@
+{
+    "image2": {
+        "data": "hwQKAAoAAABERERERAAAAFRVVVVFAAAAVFVVVUUAAABUVVVVRQAAAFRVVVVFAAAAVFVVVUUAAABUVVVVRQAAAFRVVVVFAAAAVFVVVUUAAABERERERAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "food_1"
+    },
+    "image3": {
+        "data": "hwQKAAoAAACqqqqqqgAAADozMzOjAAAAOjMzM6MAAAA6MzMzowAAADozMzOjAAAAOjMzM6MAAAA6MzMzowAAADozMzOjAAAAOjMzM6MAAACqqqqqqgAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "food_2"
+    },
+    "image1": {
+        "data": "hwQKAAoAAABmZmZmZgAAAHZ3d3dnAAAAdnd3d2cAAAB2d3d3ZwAAAHZ3d3dnAAAAdnd3d2cAAAB2d3d3ZwAAAHZ3d3dnAAAAdnd3d2cAAABmZmZmZgAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "snake_body"
+    },
+    "image4": {
+        "data": "hwQKAAoAAACIiIiIiAAAAJiZmZmJAAAAmJmZmYkAAACYmZmZiQAAAJiZmZmJAAAAmJmZmYkAAACYmZmZiQAAAJiZmZmJAAAAmJmZmYkAAACIiIiIiAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "food_3"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
